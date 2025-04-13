@@ -20,7 +20,7 @@
             },
             {
                 "question": "What additional information is present in the image?",
-                "answer": "The image is labeled with the text "Class: bird" at the top, indicating that the image is a representation of a bird."
+                "answer": "The image is labeled with the text 'Class: bird' at the top, indicating that the image is a representation of a bird."
             }
         ]
     },
@@ -45,7 +45,7 @@
             },
             {
                 "question": "What additional information is present in the image?",
-                "answer": "TThe image is labeled with the text "Class: horse" at the top, indicating that the image is of a horse"
+                "answer": "TThe image is labeled with the text 'Class: horse' at the top, indicating that the image is of a horse"
             }
         ]
     },
@@ -95,7 +95,7 @@
             },
             {
                 "question": "What additional information is present in the image?",
-                "answer": "The car's license plate is visible, but the text is not discernible. The image is labeled with the class "automobile""
+                "answer": "The car's license plate is visible, but the text is not discernible. The image is labeled with the class 'automobile'"
             }
         ]
     },
