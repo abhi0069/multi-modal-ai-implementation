@@ -1,0 +1,128 @@
+[
+    {
+        "image_path": "CIFAR10_Sample1.png",  
+        "questions": [
+            {
+                "question": "What is the main object in the image?",
+                "answer": "A bird"
+            },
+            {
+                "question": "What color is the main object?",
+                "answer": "Light brown body with a dark brown head"
+            },
+            {
+                "question": "What is the position of the main object?",
+                "answer": "Facing to the right with wings folded"
+            },
+            {
+                "question": "What color is the background?",
+                "answer": "A gradient of blue"
+            },
+            {
+                "question": "What additional information is present in the image?",
+                "answer": "The image is labeled with the text 'Class: bird' at the top"
+            }
+        ]
+    },
+    {
+        "image_path": "CIFAR10_Sample2.png",  
+        "questions": [
+            {
+                "question": "What is the main object in the image?",
+                "answer": "A horse"
+            },
+            {
+                "question": "What color is the main object?",
+                "answer": "White with pinkish hue on its legs and pinkish-white face"
+            },
+            {
+                "question": "What is the position of the main object?",
+                "answer": "Standing position, facing towards the right side"
+            },
+            {
+                "question": "What color is the background?",
+                "answer": "Dark brown"
+            },
+            {
+                "question": "What additional information is present in the image?",
+                "answer": "The image is labeled with the text 'Class: horse' at the top"
+            }
+        ]
+    },
+    {
+        "image_path": "CIFAR10_Sample3.png",  
+        "questions": [
+            {
+                "question": "What is the main object in the image?",
+                "answer": "A red car"
+            },
+            {
+                "question": "What color is the main object?",
+                "answer": "Red"
+            },
+            {
+                "question": "What is the position of the main object?",
+                "answer": "Positioned in the foreground"
+            },
+            {
+                "question": "What color is the background?",
+                "answer": "Beach scene with sandy background"
+            },
+            {
+                "question": "What additional information is present in the image?",
+                "answer": "The image shows a beach scene in the background with buildings in the distance"
+            }
+        ]
+    },
+    {
+        "image_path": "CIFAR10_Sample4.png",  
+        "questions": [
+            {
+                "question": "What is the main object in the image?",
+                "answer": "A 2018 Chevrolet Corvette Z51"
+            },
+            {
+                "question": "What color is the main object?",
+                "answer": "Red"
+            },
+            {
+                "question": "What is the position of the main object?",
+                "answer": "Parked in a garage"
+            },
+            {
+                "question": "What color is the background?",
+                "answer": "Brick wall and window in the background"
+            },
+            {
+                "question": "What additional information is present in the image?",
+                "answer": "The image is labeled with the class 'automobile' and shows a license plate"
+            }
+        ]
+    },
+    {
+        "image_path": "CIFAR10_Sample5.png",  
+        "questions": [
+            {
+                "question": "What is the main object in the image?",
+                "answer": "An orange car"
+            },
+            {
+                "question": "What color is the main object?",
+                "answer": "Orange with black features (grille, bumper, headlight, and roof)"
+            },
+            {
+                "question": "What is the position of the main object?",
+                "answer": "Facing the viewer with its front end clearly visible"
+            },
+            {
+                "question": "What color is the background?",
+                "answer": "Light blue"
+            },
+            {
+                "question": "What additional information is present in the image?",
+                "answer": "No text is present in the image"
+            }
+        ]
+    }
+]
+
