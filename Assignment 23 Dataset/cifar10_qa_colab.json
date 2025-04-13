@@ -4,23 +4,23 @@
         "questions": [
             {
                 "question": "What is the main object in the image?",
-                "answer": "A bird"
+                "answer": "The image is a pixelated representation of a bird"
             },
             {
                 "question": "What color is the main object?",
-                "answer": "Light brown body with a dark brown head"
+                "answer": "a bird with a light brown body and a dark brown head"
             },
             {
                 "question": "What is the position of the main object?",
-                "answer": "Facing to the right with wings folded"
+                "answer": "The bird is facing to the right, and its wings are folded"
             },
             {
                 "question": "What color is the background?",
-                "answer": "A gradient of blue"
+                "answer": "The background is a gradient of blue, which gives the impression of a sky or water surface"
             },
             {
                 "question": "What additional information is present in the image?",
-                "answer": "The image is labeled with the text 'Class: bird' at the top"
+                "answer": "The image is labeled with the text "Class: bird" at the top, indicating that the image is a representation of a bird."
             }
         ]
     },
@@ -29,23 +29,23 @@
         "questions": [
             {
                 "question": "What is the main object in the image?",
-                "answer": "A horse"
+                "answer": "The image is a pixelated representation of a horse"
             },
             {
                 "question": "What color is the main object?",
-                "answer": "White with pinkish hue on its legs and pinkish-white face"
+                "answer": "The horse appears to be white in color, with a pinkish hue on its legs and a pinkish-white color on its face"
             },
             {
                 "question": "What is the position of the main object?",
-                "answer": "Standing position, facing towards the right side"
+                "answer": "The horse is depicted in a standing position, facing towards the right side of the image"
             },
             {
                 "question": "What color is the background?",
-                "answer": "Dark brown"
+                "answer": "The background of the image is a dark brown color, which contrasts with the white color of the horse"
             },
             {
                 "question": "What additional information is present in the image?",
-                "answer": "The image is labeled with the text 'Class: horse' at the top"
+                "answer": "TThe image is labeled with the text "Class: horse" at the top, indicating that the image is of a horse"
             }
         ]
     },
@@ -54,23 +54,23 @@
         "questions": [
             {
                 "question": "What is the main object in the image?",
-                "answer": "A red car"
+                "answer": "The image is a pixelated representation of a red car, which appears to be an automobile"
             },
             {
                 "question": "What color is the main object?",
-                "answer": "Red"
+                "answer": "The image is a pixelated representation of a red car"
             },
             {
                 "question": "What is the position of the main object?",
-                "answer": "Positioned in the foreground"
+                "answer": "The car is positioned in the foreground, with the background showing a beach scene"
             },
             {
                 "question": "What color is the background?",
-                "answer": "Beach scene with sandy background"
+                "answer": "The beach scene in the background is also pixelated, but it appears to show a sandy beach with a few buildings or structures in the distance"
             },
             {
                 "question": "What additional information is present in the image?",
-                "answer": "The image shows a beach scene in the background with buildings in the distance"
+                "answer": "The overall image is a blend of the car and the beach scene, with the car being the main focus due to its proximity to the viewer. The pixelation effect obscures the details of the car, making it difficult to discern specific features such as the make, model, or color of the car."
             }
         ]
     },
@@ -79,23 +79,23 @@
         "questions": [
             {
                 "question": "What is the main object in the image?",
-                "answer": "A 2018 Chevrolet Corvette Z51"
+                "answer": "The image is a pixelated representation of a red car, specifically a 2018 Chevrolet Corvette Z51"
             },
             {
                 "question": "What color is the main object?",
-                "answer": "Red"
+                "answer": "The image is a pixelated representation of a red car"
             },
             {
                 "question": "What is the position of the main object?",
-                "answer": "Parked in a garage"
+                "answer": "The car is parked in a garage"
             },
             {
                 "question": "What color is the background?",
-                "answer": "Brick wall and window in the background"
+                "answer": "the background features a brick wall and a window"
             },
             {
                 "question": "What additional information is present in the image?",
-                "answer": "The image is labeled with the class 'automobile' and shows a license plate"
+                "answer": "The car's license plate is visible, but the text is not discernible. The image is labeled with the class "automobile""
             }
         ]
     },
@@ -104,23 +104,23 @@
         "questions": [
             {
                 "question": "What is the main object in the image?",
-                "answer": "An orange car"
+                "answer": "The image is a pixelated representation of a car, specifically an orange car. The car has a black grille, a black bumper, and a black headlight."
             },
             {
                 "question": "What color is the main object?",
-                "answer": "Orange with black features (grille, bumper, headlight, and roof)"
+                "answer": "The car's body is orange, and it has a black roof"
             },
             {
                 "question": "What is the position of the main object?",
-                "answer": "Facing the viewer with its front end clearly visible"
+                "answer": "The car is facing the viewer, and its front end is clearly visible"
             },
             {
                 "question": "What color is the background?",
-                "answer": "Light blue"
+                "answer": "The background of the image is a light blue color"
             },
             {
                 "question": "What additional information is present in the image?",
-                "answer": "No text is present in the image"
+                "answer": "The image does not provide any additional details about the car or its surroundings and there is no text present in the image."
             }
         ]
     }
