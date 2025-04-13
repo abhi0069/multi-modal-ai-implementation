@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But don't ignore these specific files/folders
+!Assignment_23(v2).ipynb
+!Assignment 23 Dataset/
+!README.md
+!requirements.txt
+!LICENSE
